@@ -1,0 +1,27 @@
+{
+    "name": "gyulp",
+    "version": "1.0.0",
+    "description": "test",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "yujinjiang",
+    "license": "ISC",
+    "devDependencies": {
+        "browser-sync": "^2.18.12",
+        "gulp": "*",
+        "gulp-concat": "^2.6.1",
+        "gulp-htmlmin": "*",
+        "gulp-imagemin": "^3.3.0",
+        "gulp-jshint": "^2.0.4",
+        "gulp-less": "*",
+        "gulp-minify": "*",
+        "gulp-minify-css": "^1.2.4",
+        "gulp-minify-html": "^1.0.6",
+        "gulp-uglify": "^3.0.0",
+        "imagemin-pngquant": "^5.0.1",
+        "jshint": "^2.9.5",
+        "sass": "^1.0.0-beta.1"
+    }
+}
